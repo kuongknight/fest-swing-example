@@ -19,7 +19,7 @@ import javax.swing.tree.TreePath;
 
 /**
  *
- * @author eguchi
+ * @author eguchi t
  */
 public class SampleFrame extends javax.swing.JFrame{
 
@@ -403,6 +403,7 @@ public class SampleFrame extends javax.swing.JFrame{
         } );
     }
 
+    
     private void calc(){
         try{
             BigDecimal value1 = new BigDecimal( mValue1Field.getText() );
