@@ -9,6 +9,7 @@
 
   <name>fest-swing-example</name>
   <url>http://maven.apache.org</url>
+  
     <build>
         <plugins>
             <plugin>
