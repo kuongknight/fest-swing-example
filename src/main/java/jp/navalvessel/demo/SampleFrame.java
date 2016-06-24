@@ -19,7 +19,7 @@ import javax.swing.tree.TreePath;
 
 /**
  *
- * @author eguchi t
+ * @author eguchi thh
  */
 public class SampleFrame extends javax.swing.JFrame{
 
